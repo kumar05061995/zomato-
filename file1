@@ -4,4 +4,11 @@ vinipisthunnadi meku ishtamina kumar.
 shuba samyakalana chakkati patatho start cheddam 
 ready na andaru.
 mekosam vesthunnam meku ishtamina song chirutha nunde.
-panjagutta, kairathabad meeduga chala troffic unde konchm opikatho undagalaru
+panjagutta, kairathabad meeduga chala troffic unde konchm opikatho undagalaru.
+info 
+class {
+{
+public static void main(string[]args);
+system.out.println("welcome to my world")
+}
+}
