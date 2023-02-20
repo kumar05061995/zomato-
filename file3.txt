@@ -1,0 +1,6 @@
+customhost= database-3.cmo4fffibwaq.ap-south-1.rds.amazonaws.com
+customuser=admin
+custompass=ammananna423
+customdb= employee
+custombucket=blackchain
+customregion=ap-south-1
